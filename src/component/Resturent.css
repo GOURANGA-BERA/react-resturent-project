@@ -1,0 +1,29 @@
+.card-container {
+  border: 3px solid red;
+  margin: 20px;
+  width: 800px;
+  height: 600px;
+}
+.card-describtion {
+  background-color: aquamarine;
+  width: 100%;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+
+#order-price {
+  color: red;
+  font-weight: bold;
+}
+.card-no {
+  font-size: 30px;
+  border: 3px solid green;
+  border-radius: 6%;
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  display: block;
+  text-align: center;
+}
